@@ -13,6 +13,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'byebug'
 gem 'web-console', '~> 2.0'
 gem 'spring'
+gem 'coderay', '~> 1.1.0'
 
 # learn-rails
 gem 'foundation-rails'
